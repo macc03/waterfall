@@ -1,0 +1,10 @@
+body {
+  font-family: sans-serif;
+}
+#masonry {
+  width: 100%;
+}
+#masonry img {
+  width: 200px;
+  position: absolute;
+}
